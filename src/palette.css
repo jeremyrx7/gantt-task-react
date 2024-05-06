@@ -17,3 +17,28 @@
     --gtr-gantt-header-separator:rgb(196, 196, 196);
     --gtr-task-list-expander: rgb(86 86 86);
   }
+
+.dark {
+    --back: #000;
+    --button-back: #181818;
+    --fore: #fff;
+    --gray: #333;
+    --inputSlider: #2196f3;
+    --gtr-back: #000;
+    --gtr-even-back: #0a0a0a;
+    --gtr-grid-row-line: #14100d;
+    --gtr-border: #191b1b;
+    --gtr-label: #aaa;
+    --gtr-calendar-bottom-text: #ccc;
+    --gtr-calendar-stroke: #1f1f1f;
+    --gtr-tooltip-default-container-paragraph: #999999;
+    --gtr-bar-handle: #222222;
+
+    --gtr-scroll-wrapper: rgba(255, 255, 255, 0.2);
+    --gtr-scroll-wrapper-hover: rgba(255, 255, 255, 0.3);
+    --gtr-tooltip-default-container-shadow-first: rgba(255, 255, 255, 0.16);
+    --gtr-tooltip-default-container-shadow-second: rgba(255, 255, 255, 0.23);
+
+    --gtr-gantt-header-separator: rgb(59, 59, 59);
+    --gtr-task-list-expander: rgb(169 169 169);
+}
