@@ -1,5 +1,5 @@
 {
-  "name": "gantt-task-react",
+  "name": "@jeremyrx7/gantt-task-react",
   "version": "0.4.0",
   "description": "Interactive Gantt Chart for React with TypeScript.",
   "author": "MaTeMaTuK <maksym.vikarii@gmail.com>",
