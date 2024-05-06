@@ -18,7 +18,8 @@
     --gtr-task-list-expander: rgb(86 86 86);
   }
 
-.dark {
+@media (prefers-color-scheme: dark) {
+  :root {
     --back: #000;
     --button-back: #181818;
     --fore: #fff;
@@ -41,4 +42,6 @@
 
     --gtr-gantt-header-separator: rgb(59, 59, 59);
     --gtr-task-list-expander: rgb(169 169 169);
+  }
 }
+
